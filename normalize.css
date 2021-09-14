@@ -1,0 +1,13 @@
+.buttons {
+    background-color: lightgray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  
+  
+  }
+
+#calculator{
+  width: 450px;
+  height: 600px;
+  background-color: pink;
+  margin: 40px 400px;
+}
